@@ -1,14 +1,15 @@
+<img align="centre" alt="Coding" width="1280" height="340" src="https://www.lumi-supercomputer.eu/content/uploads/2021/04/hipify_web.jpg">
 <h1 align="center">Hi 👋, I'm shivarajchikkamadhappa</h1>
 <h3 align="center">Salesforce developer</h3>
 
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" alt="Coding" width="600" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x7m79f7rv1chsnzzdaz3e1whs8uan77irom6b9dn&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivarajchikkamadhappa" alt="shivarajchikkamadhappa" /></a> </p>
 
 - 🌱 I’m currently learning **Salesforce Developer**
 
 - 📫 How to reach me **shivarajchikkamadhappa@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="Left">Connect with me:</h3>
 <p align="left">
 
 </p>
