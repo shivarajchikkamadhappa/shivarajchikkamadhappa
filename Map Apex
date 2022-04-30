@@ -1,0 +1,35 @@
+Map Apex 
+
+public class Rocky 
+{
+    public Rocky()
+    {
+      Map<Integer,String> Shivu= new Map<Integer,String>();
+        Shivu.put(1,'Shiva');
+        Shivu.put(2,'Saravana');
+        Shivu.put(3,'Praba');
+        Shivu.put(4,'Nithish');
+        Shivu.put(5,'Pradeep');
+        
+        system.debug(Shivu);
+        
+        system.debug(shivu.get(2));
+      
+      
+        List<String> Raj= new List<String>();
+        Raj=Shivu.values();
+        system.debug(Raj);
+      
+      
+        System.debug(shivu.keyset());
+        
+        System.debug(shivu.size());
+        
+        shivu.remove(1);
+        system.debug(shivu);
+        
+        shivu.put(1,'shivu');
+        system.debug(shivu);
+    }
+
+}
