@@ -1,0 +1,24 @@
+Apex Date and Time
+
+public class DateandTime 
+{
+    public static void date()
+    {
+        Date today = Date.newInstance(2022,05,01);
+        Time timenow = Time.newInstance(06,26,00,00);
+        DateTime datewithtime = DateTime.newInstance(2022,05,01,06,26,00);
+        
+        system.debug(today);
+        system.debug(timenow);
+        system.debug(datewithtime);
+    }
+
+
+}
+
++++++++++++++++++++++++++++++++++++++
+////To run the Code ////
+            
+   DateandTime.date();
+
++++++++++++++++++++++++++++++++++++++
