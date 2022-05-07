@@ -1,4 +1,4 @@
-<img align="centre" alt="Coding" width="1200" height="400" src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg">
+<img align="centre" alt="Coding" width="1200" height="300" src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg">
 <h1 align="center">Hi 👋, I'm shivarajchikkamadhappa</h1>
 <h3 align="center">MCA / Salesforce developer</h3>
 
