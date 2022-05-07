@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm shivarajchikkamadhappa</h1>
 <h3 align="center">MCA / Salesforce developer</h3>
 
-<img align="right" alt="Coding" width="350" height="250" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x7m79f7rv1chsnzzdaz3e1whs8uan77irom6b9dn&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="350" height="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivarajchikkamadhappa" alt="shivarajchikkamadhappa" /></a> </p>
 <b>*************************************************************************************************************************************************</b>
 
