@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="350" height="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivarajchikkamadhappa" alt="shivarajchikkamadhappa" /></a> </p>
-<b>**************************************************************************************************************************************</b>
+<b>**********************************************************************************************************************************</b>
 
 - 🌱 I’m currently learning **Salesforce Developer**
 
