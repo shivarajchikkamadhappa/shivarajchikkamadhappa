@@ -1,4 +1,4 @@
-<img align="centre" alt="Coding" width="1200" height="300" src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg">
+<img align="centre" alt="Coding" width="1210" height="300" src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg">
 <h1 align="center">Hi 👋, I'm shivarajchikkamadhappa</h1>
 <h3 align="center">MCA / Salesforce developer</h3>
 
@@ -14,7 +14,6 @@
 <p align="left">
   <a href="https://instagram.com/shivu_shaiva_1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivu_shaiva_1605" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/shivaraj-chikkamadhappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivaraj-chikkamadhappa" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
