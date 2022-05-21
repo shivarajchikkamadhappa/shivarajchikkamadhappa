@@ -6,7 +6,7 @@ public class ListApex
     public ListApex()
     {
         List <String> shivulist = new List<String> {'Saravana','Nithish','Prabakaran'};
-              
+         
         system.debug(shivulist);
         
         system.debug(shivulist[2]);
