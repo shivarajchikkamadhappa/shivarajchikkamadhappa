@@ -24,7 +24,7 @@
 
 ## Contribution Graph 📊
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=shivarajchikkamadhappa&theme=github-light"
+    src="https://activity-graph.herokuapp.com/graph?username=shivarajchikkamadhappa&theme=github-light"
      />
      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivarajchikkamadhappa&show_icons=true&locale=en&layout=compact" alt="shivarajchikkamadhappa" /></p>
 
