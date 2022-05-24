@@ -21,10 +21,9 @@
 <h3 align="left">
  <img align="center" alt="Coding" width="350" height="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
   <b>...........................................................................................................................................................................................</b></h3>
-
-## Contribution Graph 📊
+ Contribution Graph 📊 
 <img
-    src="https://activity-graph.herokuapp.com/graph?username=shivarajchikkamadhappa&theme=github-light"
+     src="https://activity-graph.herokuapp.com/graph?username=shivarajchikkamadhappa&theme=gotham"
      />
      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivarajchikkamadhappa&show_icons=true&locale=en&layout=compact" alt="shivarajchikkamadhappa" /></p>
 
